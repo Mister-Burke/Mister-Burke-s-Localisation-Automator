@@ -29,6 +29,6 @@ A tool for Hearts of Iron IV modders that automatically generates localization f
 ❓ Troubleshooting:
 - For crashes: Ensure your focus file follows standard HOI4 focus tree formatting.
 
-📜 License: MIT (included in LICENSE.txt)
+📜 License: Custom Non-Commercial (included in LICENSE.txt)
 
 📬 Feedback & Assistance: https://discord.gg/Tu9Ju76Qwp
